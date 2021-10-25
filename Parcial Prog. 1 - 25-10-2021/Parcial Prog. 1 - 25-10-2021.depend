@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635200340 source:c:\users\r\desktop\utn\1er cuatrimestre programacion\programacion-laboratorio 1\parciales\parcial prog. 1 - 25-10-2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
