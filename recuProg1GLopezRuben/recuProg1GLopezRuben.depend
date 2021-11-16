@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637024654 source:c:\users\r\desktop\utn\1er cuatrimestre programacion\programacion-laboratorio 1\project codeblocks\recuprog1glopezruben\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
